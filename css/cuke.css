@@ -1,0 +1,41 @@
+.feature {
+    padding-top: 5px;
+    padding-bottom: 50px;
+}
+
+.line {
+  padding:3px;
+}
+
+.feature-keyword, .scenario-keyword {
+    font-weight: bold;
+}
+
+.scenario {
+    padding-top:10px;
+}
+
+.step-keyword {
+    font-weight: bold;
+    padding-left: 10px;
+}
+
+.feature-description {
+    background: beige;
+}
+
+.passed {
+    background-color: #C5D88A;
+}
+
+.failed {
+    background-color: #D88A8A;
+}
+
+.skipped {
+    background-color: #2DEAEC;
+}
+
+.undefined {
+    background-color: #ebcc81;
+}
